@@ -1,0 +1,31 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #003366;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.h3:hover{
+  color: red;
+}
+
+.profile_pic:hover {
+  -moz-box-shadow: 0 0 10px #ccc;
+  -webkit-box-shadow: 0 0 10px #ccc;
+  box-shadow: 0 0 10px #ccc;
+}
+.name:hover{
+  color: red;
+}
